@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="onboarding_title_marin_top">48dp</dimen>
+    <dimen name="onboarding_description_wight">280dp</dimen>
+    <dimen name="onboarding_description_margin_top">32dp</dimen>
+    <dimen name="onboarding_point_container_marin_bottom">24dp</dimen>
+    <dimen name="onboarding_point_scale">8dp</dimen>
+    <dimen name="onboarding_point_marin">4dp</dimen>
+    <dimen name="onboarding_button_marin_bottom">16dp</dimen>
+    <dimen name="button_margin_horizontal">24dp</dimen>
+    <dimen name="button_height">44dp</dimen>
+</resources>
